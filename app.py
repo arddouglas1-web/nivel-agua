@@ -18,10 +18,10 @@ def exibir(nivel):
      
 
 print("Lista de níveis para a Água e sua situação: ")
-print(exibir(1))   
-print(exibir(2)) 
-print(exibir(3))   
-print(exibir(4))   
-print(exibir(5))     
+exibir(1) 
+exibir(2)
+exibir(3)  
+exibir(4)
+exibir(5)   
 
 print(Style.RESET_ALL)   
